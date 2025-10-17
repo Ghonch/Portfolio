@@ -67,10 +67,19 @@ h2{
 
 
 body {
-  background-color: #f2f2f2; 
+  background-color: #f2f2f2;
   color: #333;
   padding: 30px;
   line-height: 1.6;
+ 
+  /*
+  Alternative
+  background-image: url("timetraveler.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;*/
+
+
 }
 
 #heading {
@@ -88,7 +97,7 @@ body > p {
 
 
 #ab1 {
-  background-color: #fff;
+ background-color: #fff;
   max-width: 900px;
   margin: 30px auto;
   padding: 30px;
@@ -166,4 +175,7 @@ body > p {
   #ab1 {
     padding: 20px;
   }
+
+
+
 
